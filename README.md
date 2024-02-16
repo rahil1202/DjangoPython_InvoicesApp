@@ -1,4 +1,3 @@
-Certainly! I've added more emojis to enhance the readability and add a touch of fun to the README:
 
 # Django Python Invoices App
 
