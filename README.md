@@ -1,3 +1,5 @@
+Certainly! I've added more emojis to enhance the readability and add a touch of fun to the README:
+
 # Django Python Invoices App
 
 ## Overview
@@ -13,7 +15,7 @@ This Django Python Invoices App is a 🌐 web application designed to manage and
 
 ## Video Demo
 
-Watch a demonstration of the application features [here](https://github.com/sharpsailor/Django_Python-Invoices-App/assets/119790479/bf6d7bac-5e54-42d0-b51c-46abd7790a6e).
+Watch a demonstration of the application features [here](https://github.com/sharpsailor/Django_Python-Invoices-App/assets/119790479/bf6d7bac-5e54-42d0-b51c-46abd7790a6e) 🎥.
 
 ## Getting Started
 
@@ -72,5 +74,12 @@ If you would like to contribute to the development of this project, please follo
 
 ## License
 
-This Django Python Invoices App is licensed under the [MIT License](LICENSE).
+This Django Python Invoices App is licensed under the [MIT License](LICENSE) 📄.
 
+## Author
+
+[Author](github.com/rahil1202) 🧑‍💻
+
+Feel free to contact the author if you have any questions or concerns related to the application.
+
+Happy coding! 🚀
